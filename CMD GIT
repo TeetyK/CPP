@@ -1,0 +1,3 @@
+git remote add origin .git
+git remote -v
+git pull <REMOTE> <name-of-branch>
